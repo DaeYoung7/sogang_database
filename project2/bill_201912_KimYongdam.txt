@@ -1,0 +1,12 @@
+Customer	Address	Amount
+Kim Yongdam	AS816	$3000
+------------------------------
+Itemized Billing List
+====================================================================================================
+| Package Number | Item | Amount | Serivce Type | Payment Type | Timeliness of Delivery|
+====================================================================================================
+P00000011 | airPod Pro | $350 | Flat Envelope | Credit Card | Overnight
+P03002111 | iPhone 11 Pro, MG, 256GB | $1400 | Small Box | Prepaid(reserved) | Second day
+P10222935 | Macbook Air, RG, i5/16GB/512GB | $0 | Large Box | Returned(malfunctioning) | Returned
+P10222935 | Macbook Air, RG, i5/16GB/512GB | $1250 | Large Box | 5 days(delayed)
+----------------------------------------------------------------------------------------------------
